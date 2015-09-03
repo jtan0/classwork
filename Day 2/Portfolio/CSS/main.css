@@ -1,0 +1,19 @@
+body {
+
+	font-family: sans-serif;
+	font-size: 18;
+	border-bottom: 5px solid #222222;
+	border-top: 5px solid #222222 ;
+	margin: 30px;
+	padding: 50px;
+	background: #F6F6F6;
+}
+
+header {
+	text-align:center;
+}
+img {
+
+	float: right;
+	position: relative;
+}
