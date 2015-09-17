@@ -47,7 +47,7 @@ nav a {
 	font-family: "Merriweather";
 	text-align: center;
 	background-color: #d3d3d3;
-	box-shadow: 0 0 2px black;
+	border: 2px solid #d3d3d3;
 }
 
 .grey h2 {
