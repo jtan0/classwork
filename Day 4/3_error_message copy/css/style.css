@@ -1,0 +1,11 @@
+.message  {
+	border: 5px solid black;
+	text-align: center;
+	font-family: sans-serif;
+	padding: 25px;
+}
+
+.error {
+	float: left;
+	width: 50%;
+}

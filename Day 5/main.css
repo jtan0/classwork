@@ -1,0 +1,14 @@
+header, main, div, footer {
+	border: 1px solid gray;
+}
+
+/* Because the border adds to the overal width, you would need to subtract or else your divs won't float */
+.float-left {
+	float: left;
+	width: 49%;
+	border-style: solid;
+}
+
+footer {
+	clear: both;
+}

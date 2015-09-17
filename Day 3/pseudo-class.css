@@ -1,0 +1,36 @@
+/*makes the first list item bold and red */
+.awesome-list li:first-child{
+
+	font-weight: bold;
+	color: red;
+
+}
+
+/* make all even items red */
+.awesome-list li:nth-child(2n+1) {
+	color: red;
+}
+
+/*makes the last element of the list blue */
+.awesome-list li:last-child{
+	color: blue;
+}
+
+p:first-child {
+	color: red;
+}
+
+/*This item will remove the underline from the link*/
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+/*This command is saying that you are grabbing all links that begin with http when hovering*/
+a[href^="http"] :hover{
+	color: black;
+}
+
