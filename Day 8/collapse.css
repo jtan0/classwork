@@ -1,0 +1,22 @@
+body {
+	font-family: sans-serif;
+	background-color: #E8E8EE;
+}
+
+header {
+	height: 200px;
+	background-color: #249FD9;
+}
+
+h1 {
+	padding: 80px;
+	color: white;
+}
+
+ul {
+	padding: 50px;
+}
+
+h2 {
+	color: #F0961F ;
+}
